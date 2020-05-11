@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Runs under MacOS, Python 2.7 + wxPython + numpy + matplotlib + PySerial
+# Runs under MacOS, Python 3.7 + wxPython + numpy + matplotlib + PySerial
 #
 # ---------------------------------
 # Spex in Python
