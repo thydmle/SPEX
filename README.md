@@ -6,9 +6,11 @@ Repository is under constant development. Please reach out to the owner prior to
 This code runs ideally in a virtual Python environment based on the first comment in the Python program. Should you like to run this on your native environment, make sure that you have all of the listed modules correctly installed prior to running the script. 
 
 The required modules are: 
--'wxpython'
--'serial'
--'numpy'
--'matplotlib'
+'''
+wxpython
+numpy
+serial
+matplotlib
+'''
 
 
