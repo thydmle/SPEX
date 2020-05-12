@@ -41,7 +41,7 @@ import sys
 
 ####----------------------------------
 ####
-# DEFAULT: channels from 3000 to 7000 angstrom, with 0.5 increase
+# DEFAULT: channels from 4000 to 7000 angstrom, with 0.5 increase
 # TO CHANGE: 
 #	start = starting wavelength in angstrom
 #	stop = stopping wavelength in angstrom
